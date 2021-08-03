@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primer proyecto formulario csharp", "Primer proyecto formulario csharp.csproj", "{861B34E2-9C86-46E4-AA27-74F673CA75B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861B34E2-9C86-46E4-AA27-74F673CA75B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861B34E2-9C86-46E4-AA27-74F673CA75B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861B34E2-9C86-46E4-AA27-74F673CA75B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861B34E2-9C86-46E4-AA27-74F673CA75B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6D0A06D-52E1-4E6E-9822-7332382B057D}
+	EndGlobalSection
+EndGlobal
